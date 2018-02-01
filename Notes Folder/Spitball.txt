@@ -9,6 +9,12 @@ We would define the constructs in the world, and people can add onto it to help 
 We should probably just try to get a dev environment set up to start lol
 
 
+Character Types:
+* User
+* NPC
+* creature
+
+
 Zone types:
 * City
  * An area focused around people to people interactions
