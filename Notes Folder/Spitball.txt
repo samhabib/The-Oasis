@@ -1,2 +1,6 @@
 IDEAS:
 -------------------------------------------------------------------------------------------------------------------------------------------
+
+### Extendibility 
+We are looking to build a platform for people to build ontop of.
+We would define the constructs in the world, and people can add onto it to help expand it
