@@ -7,3 +7,13 @@ We would define the constructs in the world, and people can add onto it to help 
 
 ## Getting Started
 We should probably just try to get a dev environment set up to start lol
+
+
+Zone types:
+* City
+ * An area focused around people to people interactions
+* Wild
+  * more open world, built for exploration
+* Instance 
+ * Self contained area with its own story line
+    * Dungeons and stuffs
