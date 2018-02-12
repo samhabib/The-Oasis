@@ -18,6 +18,7 @@
 * Online Presence
 * Spawn Points
 * Treasures
+* Quest system
 
 # NPC
 * Oasis
